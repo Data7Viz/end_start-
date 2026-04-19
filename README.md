@@ -35,6 +35,7 @@ clock_t start = clock();
 
 clock_t end = clock();
 double duration = (double)(end - start) / HZ;
+
 ```
         
         ЧЕРНОВИК
