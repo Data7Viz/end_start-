@@ -1,4 +1,4 @@
-<img width="2448" height="3264" alt="70" src="https://github.com/user-attachments/assets/4541ac46-359d-4c26-ba12-150bb53473e3" />
+
 # Измеряем время импульсами 1 МГц clock()
 
 ## Измеряем время выполнения программы
