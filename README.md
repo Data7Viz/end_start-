@@ -37,3 +37,4 @@ clock_t end = clock();
 double duration = (double)(end - start) / HZ;
         
         ЧЕРНОВИК
+<img width="2448" height="3264" alt="70" src="https://github.com/user-attachments/assets/0c55580f-978a-4a7b-88cb-c7f8e6176489" />
