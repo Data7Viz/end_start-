@@ -1,4 +1,5 @@
 
+# Черновик
 # Измеряем время импульсами 1 МГц clock()
 
 ## Измеряем время выполнения программы
@@ -36,6 +37,9 @@ clock_t start = clock();
 clock_t end = clock();
 double duration = (double)(end - start) / HZ;
 ```
+
+
+<img width="2448" height="3264" alt="70" src="https://github.com/user-attachments/assets/3011e1b7-4e86-4277-92a6-9209a19bb303" />
+
         
-        
-        ЧЕРНОВИК
+
